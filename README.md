@@ -18,9 +18,6 @@
 ![](https://streak-stats.demolab.com/?user=jmish264&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jmish264&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jmish264&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
